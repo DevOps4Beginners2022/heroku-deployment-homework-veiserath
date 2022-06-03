@@ -1,1 +1,1 @@
-https://heroku-homework-veiserath.herokuapp.com/
+https://heroku-homework-veiserat.herokuapp.com/
